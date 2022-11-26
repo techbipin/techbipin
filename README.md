@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bipin Tatkare</h1>
-<h3 align="center">A passionate Django Developer from India</h3>
+<h3 align="center">A Passionate Django Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
