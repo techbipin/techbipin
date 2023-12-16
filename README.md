@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -  Add Profile views using this <p align="left"> <img src="https://komarev.com/ghpvc/?username=techbipin&label=Profile%20views&color=0e75b6&style=flat" alt="bhavesh" /> </p>
 -->
 
-I am a results-driven **Full-Stack Developer** with over 2+ years of hands-on experience in the software industry. My expertise lies in designing and implementing scalable web applications using Python frameworks such as Django, Flask, and Fast API. 
+As a dedicated tech enthusiast, I bring over 3+ years of immersive experience in the software industry. My journey has been shaped by a deep passion for technology and a commitment to continuous learning. Throughout my career, I've actively engaged with various aspects of software development, gaining valuable insights and skills. My expertise centers around designing and implementing scalable web applications, with a focus on Python frameworks such as Django, Flask, and Fast API. I thrive on the excitement of staying current with technological advancements and applying my knowledge to create innovative solutions in the ever-evolving tech landscape. 
 
 - 🔭 I’m currently working on advance web developments and some freelance projects
 - 🌱 I’m currently learning Docker, AWS and Machine Learning
