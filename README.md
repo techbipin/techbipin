@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 As a dedicated tech enthusiast, I bring over 3+ years of immersive experience in the software industry. My journey has been shaped by a deep passion for technology and a commitment to continuous learning. Throughout my career, I've actively engaged with various aspects of software development, gaining valuable insights and skills. My expertise centers around designing and implementing scalable web applications, with a focus on Python frameworks such as Django, Flask, and Fast API. I thrive on the excitement of staying current with technological advancements and applying my knowledge to create innovative solutions in the ever-evolving tech landscape. 
 
-- 🔭 I’m currently working on advance web developments and some freelance projects
-- 🌱 I’m currently learning Docker, AWS and Machine Learning
-- 👯 I’m looking to collaborate on new business ideas.
-- 📈 I enjoy investing in the stock markets.
+* 🚀 Currently immersed in advancing web development and handling diverse freelance projects.
+* 🌱 Actively exploring the realms of Docker, AWS, and Machine Learning to broaden my tech horizon.
+* 🤝 Open to exciting collaborations on innovative business ideas.
+* 💹 Passionate about navigating the complexities of the stock markets and making informed investment decisions.
 
 ### Technical Skills
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
