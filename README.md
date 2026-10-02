@@ -5,7 +5,7 @@ I'm a Python backend engineer with **4+ years of experience** designing and ship
 I enjoy turning messy business requirements into clean, scalable systems, and I've worked across Finance, Insurance, Logistics, and Pharmaceuticals domains.
 
 * 💼 **Experience:** Senior Software Engineer (biometrics platform, visitor management APIs, RAG assistant, agentic workflows) and Lead Software Engineer (workflow engines with multi-level approval matrices, multi-layer caching that cut pricing-calculation latency by ~40%).
-* 🚀 Building backend systems and handling <a href="https://py29.in/">Py29</a>.
+* 🚀 Building backend systems and handling.
 * 🤖 Working with RAG pipelines, vector databases, and Agentic AI workflows.
 * 🌱 Going deeper into Docker, AWS (EC2, RDS, S3), and system design.
 * 👨‍🏫 Experienced in leading technical design discussions and mentoring engineers.
