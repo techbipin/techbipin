@@ -54,21 +54,3 @@ I enjoy turning messy business requirements into clean, scalable systems, and I'
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![](https://img.shields.io/badge/nano-563D7C?style=for-the-badge&logo=nano&logoColor=white)
 </br>
-
-### Blogs
-![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
-![](https://img.shields.io/badge/Stack%20Overflow-%23FF6600?style=for-the-badge&logo=Stackoverflow&logoColor=white)
-![](https://img.shields.io/badge/Real%20Python-0078D6?link=https://realpython.com&style=for-the-badge&logo=Python&logoColor=F7DF1E&link=http://realpython.com/)
-</br>
-
-### Education
-![](https://img.shields.io/badge/Youtube-EC5252?style=for-the-badge&logo=youtube&logoColor=white)
-
-<!--
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=techbipin&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api?username=techbipin&theme=blue-green)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=techbipin)
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
--->
